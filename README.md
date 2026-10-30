@@ -1,10 +1,10 @@
-# 🔐 Cybersecurity Challenges & Practical Labs
+# 🔐 Cybersecurity Labs
 
 ### Hands-on Learning | Network Security | Cryptanalysis | Blue Team
 
 Welcome to my cybersecurity learning repository!
 
-This repository documents my practical journey through cybersecurity challenges, technical exercises and hands-on labs.
+This repository documents my practical journey through cybersecurity challenges, technical exercises, personal projects and hands-on labs.
 
 The goal is to strengthen my technical foundations, develop problem-solving skills and gain practical experience with cybersecurity concepts and tools.
 
@@ -17,39 +17,63 @@ The goal is to strengthen my technical foundations, develop problem-solving skil
 - Improve Linux command-line and system administration skills.
 - Discover and practice cybersecurity tools in authorized environments.
 - Develop a structured approach to technical problem-solving.
+- Build practical projects related to cybersecurity, systems and networks.
 - Document technical findings and lessons learned.
 
-## 🧪 Platforms
+## 📂 Repository Structure
+
+This repository is organized into two main sections:
+
+```text
+cybersecurity-labs/
+│
+├── Challenges/
+│   ├── Root-Me/
+│   │   ├── Networking/
+│   │   └── Cryptanalysis/
+│   │
+│   ├── TryHackMe/
+│   │   ├── Linux/
+│   │   ├── Networking/
+│   │   └── Cryptography/
+│   │
+│   └── README.md
+│
+├── Projects/
+│   └── README.md
+│
+└── README.md
+```
+
+*The structure will evolve as new challenges and projects are completed.*
+
+### 🧪 Challenges
+
+This section contains cybersecurity exercises and challenge write-ups from platforms such as:
 
 | Platform | Focus | Status |
 |---|---|---|
 | [Root-Me](https://www.root-me.org/) | Networking, Cryptanalysis and other cybersecurity challenges | In progress |
 | [TryHackMe](https://tryhackme.com/) | Cybersecurity fundamentals, Linux and practical labs | In progress |
 
-## 📂 Repository Structure
+### 🛠️ Projects
 
-```text
-cybersecurity-challenge/
-│
-├── Root-Me/
-│   ├── Networking/
-│   └── Cryptanalysis/
-│
-├── TryHackMe/
-│   ├── Linux/
-│   ├── Networking/
-│   └── Cryptography/
-│
-├── Resources/
-│
-└── README.md
-```
+This section contains personal projects and practical labs developed to apply and consolidate my knowledge in:
+
+- Cybersecurity and defensive security.
+- Linux and system administration.
+- Networking and network security.
+- Security monitoring and analysis.
+
+Projects will be added progressively as they are developed.
+
+---
 
 ## 📝 Documentation Methodology
 
-Each documented challenge follows a consistent structure:
+Each documented challenge or project follows a structured approach whenever relevant:
 
-1. **Objective** — What is the challenge about?
+1. **Objective** — What is the task or problem?
 2. **Concepts** — Which technical concepts are involved?
 3. **Methodology** — How was the problem approached?
 4. **Tools & Commands** — Which tools and commands were used?
@@ -57,6 +81,8 @@ Each documented challenge follows a consistent structure:
 6. **Lessons Learned** — What knowledge was gained?
 
 The emphasis is on understanding the concepts and explaining the reasoning, not simply obtaining the expected answer.
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -75,17 +101,24 @@ The emphasis is on understanding the concepts and explaining the reasoning, not 
 
 *Tools are included as part of my learning activities. Their presence does not imply professional-level proficiency.*
 
+---
+
 ## 📈 Progress
 
-This repository is continuously evolving as I complete new challenges, practice technical concepts and improve my documentation.
+This repository is continuously evolving as I complete new challenges, develop practical projects and improve my documentation.
 
 My priority is quality of understanding rather than the number of challenges completed.
 
+---
+
 ## 🇫🇷 À propos
 
-Ce dépôt rassemble mes exercices pratiques et mon parcours d'apprentissage en cybersécurité.
+Ce dépôt rassemble mes exercices pratiques, mes projets personnels et mon parcours d'apprentissage en cybersécurité.
 
-J'y documente progressivement mes challenges Root-Me, mes rooms TryHackMe et les différentes notions techniques que je découvre.
+Il est organisé en deux grandes parties :
+
+- **Challenges :** mes exercices et comptes rendus réalisés sur des plateformes comme Root-Me et TryHackMe.
+- **Projects :** mes projets personnels et travaux pratiques en cybersécurité, systèmes et réseaux.
 
 Mes principaux axes de travail sont :
 
@@ -95,6 +128,8 @@ Mes principaux axes de travail sont :
 - Fondamentaux de la cybersécurité défensive.
 
 Mon objectif est de consolider mes connaissances par la pratique, de développer mon raisonnement technique et de construire progressivement une expérience concrète.
+
+---
 
 ## ⚠️ Disclaimer
 
@@ -106,4 +141,4 @@ Challenge solutions, flags, credentials and restricted platform content are not 
 
 ---
 
-**Learn • Practice • Analyze • Document • Improve**
+**Learn • Practice • Analyze • Build • Document • Improve**
